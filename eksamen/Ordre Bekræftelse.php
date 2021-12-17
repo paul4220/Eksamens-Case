@@ -68,4 +68,4 @@
 
         </table>
 
-        <h4>Tak for at handle med Fartrup Furniture</h4>       
+        <h4>Tak for at handle med Farstrup Furniture</h4>       
